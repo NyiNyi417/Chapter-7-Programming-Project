@@ -128,7 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Exam Grader.cpp" />
-    <ClCompile Include="CorrectAnswers.txt" />
+    <ClCompile Include="StudentsAnswers.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
