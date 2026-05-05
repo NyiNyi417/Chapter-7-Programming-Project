@@ -21,5 +21,8 @@
     <ClCompile Include="StudentsAnswers.txt">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CorrectAnswers.txt">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
